@@ -24,7 +24,7 @@ Mobile and Web Applications
 
 📫 How to Reach Me:
 
-Email: florent.bajraktari@example.com
+Email: florent.bajraktari@gmail.com
 
 LinkedIn: Florent Bajraktari
 
