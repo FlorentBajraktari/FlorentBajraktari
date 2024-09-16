@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @FlorentBajraktari
-- 👀 I’m interested in Python development, data analysis, and machine learning.
-- 🌱 I’m currently learning advanced Python techniques, web development with Django, and data visualization libraries like Matplotlib and Seaborn.
-- 💞️ I’m looking to collaborate on Python-based projects, open-source contributions, and data science initiatives.
-- 📫 How to reach me:[email](florentbajraktari@gmail.com), [LinkedIn](www.linkedin.com/in/florent-bajraktari-b2553291)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love solving complex puzzles and have a knack for automating everyday tasks with Python scripts!
+
+👋 Hello, I’m Florent Bajraktari
+
+👀 Interests:
+App Development | Python Development | Machine Learning
+
+🌱 Currently Learning:
+
+Advanced Python Techniques
+
+Web and Mobile App Development with Django & Kivy
+
+Data Visualization with Matplotlib & Seaborn
+
+
+💡 Looking to Collaborate On:
+
+Python-based Apps
+
+Open-Source Projects
+
+Mobile and Web Applications
+
+
+📫 How to Reach Me:
+
+Email: florent.bajraktari@example.com
+
+LinkedIn: Florent Bajraktari
+
+
+😄 Pronouns: he/him
+
+⚡ Fun Fact:
+I’m passionate about building innovative apps and automating everyday tasks with Python. I love solving complex coding challenges and creating intuitive solutions.
 
 <!---
 FlorentBajraktari/FlorentBajraktari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
