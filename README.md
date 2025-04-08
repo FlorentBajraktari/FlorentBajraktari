@@ -26,7 +26,7 @@
 
 📬 **Get in Touch**:
 
-- **Email**: [florent.bajraktari@gmail.com](mailto:florent.bajraktari@gmail.com)
+- **Email**: [florent.bajraktari@gmail.com](mailto:florentbajraktari@gmail.com)
 - **LinkedIn**: [Florent Bajraktari](#)
 
 😄 **Pronouns**: he/him
